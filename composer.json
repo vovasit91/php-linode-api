@@ -1,5 +1,5 @@
 {
-    "name": "hnhdigital-os/php-linode-api",
+    "name": "vovasit91/php-linode-api",
     "description": "The v4 Linode API for PHP [BETA].",
     "type": "library",
     "license": "MIT",
